@@ -36,7 +36,9 @@ The first time it runs, macOS will ask you to allow **deadzone** under **Privacy
 - **Accessibility** (to move windows off the hidden area)
 - **Screen & System Audio Recording** (to show the desktop on the good part of the screen)
 
-Turn both on. deadzone will start within about a minute.
+Turn on accessibility -> Run Again,
+Turn on Screen & System Audio Recording -> Run Again,
+deadzone will start within about a minute.
 
 ## Usage
 
